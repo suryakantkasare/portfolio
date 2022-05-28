@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>
+  <a href="https://kasare9096494112.github.io/portfolio" target="_blank">CodeWithSurya.Com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="image/webpage.png" />
