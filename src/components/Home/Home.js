@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import IMG from "../../Assets/HomePageImage.png"
 
 function Home() {
   return (
@@ -31,10 +32,10 @@ function Home() {
 
             <Col md={5} style={{ paddingBottom: 20 }}>
               <img
-                src="https://webparamarsh.com/wp-content/uploads/2021/12/why-choose-front-end-developer-indylogix-solutions.png"
+               src={IMG}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px" }}
+                style={{ maxHeight: "500px" }}
               />
             </Col>
           </Row>

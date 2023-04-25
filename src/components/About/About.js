@@ -27,10 +27,10 @@ function About() {
           </Col>
           <Col
             md={5}
-            style={{ paddingTop: "120px", paddingBottom: "50px" }}
+            style={{ paddingTop: "120px", paddingBottom: "50px" ,position:"relative",bottom:"100px",left:"50px"}}
             className="about-img"
           >
-            <img src="https://indylogix.com/wp-content/uploads/2020/10/hire-front-end-developer-indylogix-solutions.png" alt="about" className="img-fluid" />
+            <img src="https://www.webxcell.digital/wp-content/uploads/2021/06/hire-front-end-developer-indylogix-solutions.png" alt="about" className="img-fluid" />
           </Col>
         </Row>
         <h1 className="project-heading">

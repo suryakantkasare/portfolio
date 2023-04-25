@@ -345,8 +345,10 @@ button:focus {
 }
 
 .home-social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   position: relative !important;
-  display: inline-block !important;
   width: 40px !important;
   height: 40px !important;
   text-align: center !important;

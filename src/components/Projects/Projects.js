@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
+import SolveMe from "../../Assets/Projects/SolveMe.jpg"
 
 function Projects() {
   return (
@@ -19,25 +20,15 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={SolveMe}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              link=""
+              title="SolveMe"
+              description="SolveMe is a fun and challenging quiz app with categories ranging from Films and Music to Computers, Anime, History, and Mathematics. The app uses an open API to ensure that questions are always fresh and up-to-date. With SolveMe, you can test your knowledge while having a great time!"
+              link="https://github.com/surykantkasare/SolveMe"
+              isLive={true}
+              Livelink="https://expo.dev/@surykant_k/SolveMe"
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={editor}
-              isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              link=""
-            />
-          </Col>
-
-         
         </Row>
       </Container>
     </Container>
