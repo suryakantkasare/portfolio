@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a74921f8.css",
+    "main.js": "/portfolio/static/js/main.71556604.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume.pdf": "/portfolio/static/media/Resume.a0e36feec7c43de966ca.pdf",
+    "static/media/HomePageImage.png": "/portfolio/static/media/HomePageImage.d666b3c2ce9c4bba2b7a.png",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/SolveMe.jpg": "/portfolio/static/media/SolveMe.d8f96145799f0f3d4b52.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a74921f8.css.map": "/portfolio/static/css/main.a74921f8.css.map",
+    "main.71556604.js.map": "/portfolio/static/js/main.71556604.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a74921f8.css",
+    "static/js/main.71556604.js"
+  ]
+}
